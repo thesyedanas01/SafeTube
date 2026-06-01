@@ -4,7 +4,7 @@ SafeTube is an AI-powered Chrome extension designed to evaluate YouTube videos f
 
 This was built as an end-to-end full-stack application demonstrating seamless integration between a browser extension, a Python backend, and state-of-the-art Generative AI.
 
-## 🚀 Features
+##  Features
 
 - **Multimodal AI Analysis:** Captures and sends 10 precisely extracted video frames along with metadata to Gemini 1.5 Flash, combining visual context with textual context.
 - **Accurate Risk Profiling:** Scores the video from 0% to 100% across 6 critical safety categories:
@@ -18,7 +18,7 @@ This was built as an end-to-end full-stack application demonstrating seamless in
 - **AI Summary:** Provides a natural language explanation of *why* the video received its specific age rating based on the detected visual and textual elements.
 - **Clean, Modern UI:** Built with React and TailwindCSS for a native, snappy, professional look.
 
-## 🏗️ Architecture
+##  Architecture
 
 The project is split into two main components:
 
@@ -75,6 +75,6 @@ The project is split into two main components:
 3. Click **Load unpacked** and select the `extension/dist/` folder.
 4. Navigate to any YouTube video and click the SafeTube icon in your toolbar to begin analysis!
 
-## 📸 Screenshots
+##  Screenshots
 
 *(Take a screenshot of the popup running on a YouTube video and place it in this folder, then link it here! Example: `![Screenshot of SafeTube](screenshot.png)`)*
