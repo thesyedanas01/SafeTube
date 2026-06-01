@@ -1,0 +1,20 @@
+# General
+.DS_Store
+*.log
+
+# Backend (Python/FastAPI)
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/.env
+backend/test.py
+backend/test_storyboard.py
+*.db
+*.sqlite
+*.sqlite3
+
+# Extension (Node/Vite)
+extension/node_modules/
+extension/dist/
+extension/.vite/
+extension/package-lock.json
