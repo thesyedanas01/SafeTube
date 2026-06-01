@@ -32,7 +32,7 @@ The project is split into two main components:
    - **AI Engine:** Uses the `google-generativeai` SDK to prompt **Gemini 1.5 Flash**. The backend constructs a highly engineered prompt, enforcing a strict JSON schema output to guarantee parsable, deterministic safety scores.
    - **Database:** Asynchronously stores the analysis history so users can review previously analyzed videos in their dashboard.
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Start the Backend
 
