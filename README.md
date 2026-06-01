@@ -77,4 +77,7 @@ The project is split into two main components:
 
 ##  Screenshots
 
-*(Take a screenshot of the popup running on a YouTube video and place it in this folder, then link it here! Example: `![Screenshot of SafeTube](screenshot.png)`)*
+<img width="1920" height="964" alt="Screenshot (2953)" src="https://github.com/user-attachments/assets/7ff53ae2-f813-4079-8def-87e845e49928" />
+<img width="1920" height="942" alt="Screenshot (2958)" src="https://github.com/user-attachments/assets/0b268f1a-a20d-4ad7-a673-340eac567693" />
+
+
